@@ -1,2 +1,13 @@
-Esta es mi calculadora.
-Tenemos la version 1.0 y la 2.0.
+# Calculadora en Java
+> Proyecto de fin de año de la materia 'Sistema De Información'
+
+- Lenguaje de programación usado fue java
+- El editor usado fue Net Beans
+
+
+
+
+
+
+
+###### Alumno: Carlos Daniel Ortiz
